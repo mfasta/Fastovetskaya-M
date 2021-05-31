@@ -1,0 +1,60 @@
+body {
+color: black; 
+font-family: "Gill Sans", sans-serif;
+line-height: 2
+}
+
+h1 {
+	color: darkblue;
+	font-size: 2em;
+	border-bottom: 2px solid maroon
+}
+img {
+	width: 300px;
+	height: 200px;
+	margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 100px;
+    margin-left: 800px;
+    float:left;
+    margin: 3px 7px 3px 0;
+}
+
+h2 {
+	color: black;
+	font-size: 1,5em;
+	margin-top: 0;
+	margin-bottom: 1em;
+	line-height: 1;
+}
+
+a {
+	color: darkblue;
+}
+
+.description {
+line-height: 5;
+font-size: 17px;
+}
+
+h3 {
+	font-weight: bold;
+	color: darkblue;
+	font-size: 20px;
+	line-height: 2;
+	text-decoration: underline
+}
+
+.experience__date {
+	min-width: 185px;
+}
+.experience__name {
+	font-weight: bold;
+	font-size: 18px;
+}
+.experience__company {
+	color: darkblue;
+}
+.education__data {
+	color: darkblue;
+}
